@@ -1,0 +1,20 @@
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.exe.config
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.exe
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.pdb
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csprojAssemblyReference.cache
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy_birt_a_doua_incercare.Form1.resources
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy_birt_a_doua_incercare.Properties.Resources.resources
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csproj.GenerateResource.cache
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csproj.CoreCompileInputs.cache
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.exe
+C:\Users\DIANA\source\repos\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.pdb
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.exe.config
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.exe
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\bin\Debug\Flappy birt a doua incercare.pdb
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csprojAssemblyReference.cache
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy_birt_a_doua_incercare.Form1.resources
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy_birt_a_doua_incercare.Properties.Resources.resources
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csproj.GenerateResource.cache
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.csproj.CoreCompileInputs.cache
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.exe
+E:\Flappy birt a doua incercare\Flappy birt a doua incercare\obj\Debug\Flappy birt a doua incercare.pdb
